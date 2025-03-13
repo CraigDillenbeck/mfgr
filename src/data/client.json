@@ -1,0 +1,23 @@
+{
+  "name": "One Note Studio",
+  "email": "craig@onenote.studio",
+  "phoneForTel": "",
+  "phoneFormatted": "",
+  "address": {
+      "lineOne": "",
+      "lineTwo": "",
+      "city": "",
+      "state": "",
+      "zip": "",
+      "country": "",
+     "mapLink": ""
+  },
+  "socials": {
+      "facebook": "",
+      "instagram": "",
+      "linkedIn": ""
+  },
+  "description": "One Note Studio is a creative, image-driven web design and development studio.",
+  "title": "One Note Studio",
+  "domain": "https://www.onenote.studio"
+}

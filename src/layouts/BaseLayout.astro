@@ -1,0 +1,18 @@
+---
+import "../styles/style.css";
+import BaseHead from "../components/BaseHead.astro";
+import Header from "../components/header.astro";
+import Footer from "../components/footer.astro";
+---
+
+<html lang="en">
+	<BaseHead />
+	<body class="mx-4 md:mx-8">
+		<Header />
+		<main>
+			<slot />
+		</main>
+		<Footer />
+		<script src="../scripts/script.js"></script>
+	</body>
+</html>

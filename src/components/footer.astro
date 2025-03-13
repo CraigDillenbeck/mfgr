@@ -1,0 +1,10 @@
+---
+import client from "../data/client.json";
+import { getCurrentYear } from "../utils/utils";
+
+const currentYear = getCurrentYear();
+---
+
+<footer class="h-16 border-t-[1px] border-[var(--text-secondary)] flex items-center justify-center">
+  <p class="text-[var(--text-secondary)]">{client.title} | Copyright 2025</p>
+</footer>
